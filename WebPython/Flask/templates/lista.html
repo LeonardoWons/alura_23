@@ -1,0 +1,27 @@
+{% extends "template.html" %}
+{% block conteudo %}
+
+        <table class="table table-striped table-responsive table-bordered">
+            <thead class="thead-default">
+                <tr>
+                    <th>Nome</th>
+                    <th>categoria</th>
+                    <th>plataforma</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                {% for jogo in jogos %}
+                <tr>
+                    <td>{{ jogo.nome }}</td>
+                    <td>{{ jogo.catg }}</td>
+                    <td>{{ jogo.plataforma }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+            <tfoot>
+                <button onclick="window.location.href='login?proxima=home'">Login</button>
+            </tfoot>
+        </table>
+
+{% endblock %}
