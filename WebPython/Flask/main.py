@@ -1,4 +1,4 @@
-# curso um
+# curso 1 flask
 # Primeira aula
 """
     Foi mostrado apenas os primeiros passos, instalação e configuração base.
@@ -71,30 +71,41 @@
 # curso dois
 # Primeira aula
 """
-
+    Na primeira aula foi mostrado a instalação e config do mysql e como conectar no programa.    
+    ORM é um mapeamento para escrever na linguagem desejada e ser 'traduzida' para codigo SQL.
+    
+    No projeto jogoteca foi feito CR (create and read)
 """
 
 # Segunda aula
 """
-
+    Primeiros reestrutiramos o codigo, seprando em varios arquivos para deixar mais legivel e organizado
+    aprendemos a como passar variaveis de HTML > python e vice-versa
+    depois terminamos de fazer o CRUD (update and delete)
 """
 
 # Terceira aula
 """
-
+    Utilização de imagens para os jogos e salvando no servidor, como salvar e onde salvar
 """
 
 # Quarta aula
 """
-
+    Colocamos javascript para trocar a capa quando receber uma capa nova
+    concertando o erro de CACHE
+    deletando imagens duplicadas
 """
 
 # Quinta aula
 """
-
+    eu ja tiha colocado botao para login, em vez de /login na url, porem isso foi feito agora no curso
+    implementamos o Flask WTF para nao colocar itens nulos no formulario
+    Junto com a melhoria nos formularios foi preciso adicionar um token de segurança CSRF
+    CSRF é um token criado toda vez q envia um form e o servidor compara o token, se for igual, está seguro.
 """
 
 # Sexta aula
 """
-
+    Ultima aula, começamos refatorando a aplicação, apenas organização e style
+    Depois fizemos a criptografia das senhas utilizando o flask_bcrypt
 """
