@@ -44,3 +44,25 @@
     Passamos referencia/infos de uma pagina para outra
     CRUD(create, read, update, delete) na pagina ADMIN e algumas configuraçoes visuais e de experiencia boa de uso
 """
+
+# Terceira aula
+"""
+    Principalmente focamos na customização da pagina admin
+"""
+
+# Quarta aula
+"""
+    Colocamos a upload de fotos na pagina admin e configuramos tudo
+"""
+
+# Quinta aula
+"""
+    Para finalizar o curso dois, colocamos a barra de busca para funcionar
+"""
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Curso tres
+# Primeira aula
+"""
+    
+"""
