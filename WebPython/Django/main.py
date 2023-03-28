@@ -32,5 +32,15 @@
 # Curso dois
 # Primeira aula
 """
+    no curso dois retomamos o mesmo projeto
+    na aula um colocamos os nomes certos das imagens, utilizando variaveis dentro do python e passando pro HTML
+    para criar/alterar as cards das fotos, utilizamos os dados gravados em um banco de dados utilizando ORM do django
     
+"""
+
+# Segunda aula
+"""
+    Na segunda aula conseguimos puxar os dados do banco de dados sqlite do proprio computador
+    Passamos referencia/infos de uma pagina para outra
+    CRUD(create, read, update, delete) na pagina ADMIN e algumas configuraçoes visuais e de experiencia boa de uso
 """
