@@ -64,5 +64,37 @@
 # Curso tres
 # Primeira aula
 """
-    
+    Iniciamos um novo app, usuarios, para cadastros e adicionar fotos sem ir no /admin
+    Primeiro configuramos o novo app com as configurações padroes, arrumando as url, settings, views
+    e criamos dois novos HTML para as paginas, login e cadastro
+"""
+
+# Segunda aula
+"""
+    Fizemos dois formulario utilizando o django e estilizamos
+"""
+
+# Terceira aula
+"""
+    Criamos a logica do cadastro e login e como mandar "alertas" com o messages
+"""
+
+# Quarta aula
+"""
+    Isto realmente é importante, aprendemos a como validar se o usuario esta logado, para dar acesso a uma pagina
+    Fizemos a relação de duas tabelas, fotos e usuarios 
+    No formulario é possivel colocar a função "clean" para dar algumas regras na hora de preencher o form
+"""
+
+# Quinta aula
+"""
+    A alura fez um _alerta.html, mas realmenta nao precisa, pois os alertas nao repete se usar o _menu.html
+    depois a aluta propos refatorar o codigo e deixar sem repetiçoes(foi oq eu fiz anteriormete kk)
+"""
+# -------------------------------------------------------------------------------------------------------------------- #
+
+# Curso quatro
+# Primeira aula
+"""
+
 """
