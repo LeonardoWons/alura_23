@@ -96,5 +96,27 @@
 # Curso quatro
 # Primeira aula
 """
+    Basicamente só arrumando as pastas e estilos
+"""
 
+# Segunda aula e Terceira aula
+"""
+    CRUD para usuarios "normais", sem precisar ir na pagina de admin
+    Começamos fazendo um formulario que esta herdando de um modelo ja existente
+    Depois adicionamos as paginas de editar,deletar e nova imagem e suas logicas
+    Depois colocamos os botoes de filtro para fotos do index para funcionar
+"""
+
+# Quarta aula e Quinta aula
+"""
+    A aula que eu estava esperando, como utilizao AWS S3, cloud
+    bucket s3, criar o bucket, criar usuario(IAM)
+    conexão do django com o S3
+    1° #AWS config no settigs.py
+    2° configurar os static variaveis 
+    3° installed apps adicionar o 'storages'
+    4° arrumar os direcionamentos de static dentro dos HTML {% static '.../...' %}
+    5° manage.py collectstatic para mandar as fotos que ja tem pro S3
+    
+    para melhorar a segurança adicionamos o .env 
 """
