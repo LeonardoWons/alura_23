@@ -17,4 +17,7 @@
 """
     foi colocado um padrao para o campo do telefone
     utilizando o validator_docbr validamos se o cpf é valido
+    fizemos a paginação dos dados ( X dados por pagina), adicionamos filtro e buscas
+    agora alura fez o deploy no heroku, ja fiz varias vezes, porem agora o heroku nao é mais gratuito
+    e para finalizar foi feito a autenticação basica, igual ao primeiro curso
 """

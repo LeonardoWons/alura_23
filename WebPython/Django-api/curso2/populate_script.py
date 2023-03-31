@@ -15,7 +15,7 @@ def criando_pessoas(quantidade_de_pessoas):
     for _ in range(quantidade_de_pessoas):
         cpf = CPF()
         nome = fake.name()
-        email = '{}@{}'.format(nome.lower(),fake.free_email_domain())
+        email = '{}@{}'.format(nome.lower(), fake.free_email_domain())
         email = email.replace(' ', '')
         cpf = cpf.generate()
         rg = "{}{}{}{}".format(random.randrange(10, 99),random.randrange(100, 999),random.randrange(100, 999),random.randrange(0, 9) )
